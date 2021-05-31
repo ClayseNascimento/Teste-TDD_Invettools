@@ -1,0 +1,23 @@
+##Regras
+
+Regras: ()
+● Veue 1+1 é igual a 2.
+● Verifiqurifique qe que 1+1 não é igual a 7.
+● Verifique que no array [1,2,3,4,5] o elemento 3 está contido.
+● Verifique que no array [6,7,8,9] o elemento “TDD é Top” não está contido.
+● Verifique que o objeto { attr1: 13 } possui o atributo ‘attr1’.
+● Verifique que o objeto { attr3: 13 } não possui o atributo ‘attr1’.
+● Verifique que /([Invesstools])/ realiza match com as seguintes frases:
+○ ‘Não existe concorrente com a investtools para a melhor empresa para se
+estagiar.’
+○ ‘Investtools cuida melhor dos seus estagiários que a bloomberg.’
+○ ‘Somos parte do Programa de Formação da Investtools.
+● Implemente uma função de soma (num arquivo chamado soma.js) e teste os
+retornos para as seguintes operações:
+○ 1+1
+○ 2+2
+○ 4+5
+○ 6+7
+○ 9+9
+● Teste que o html da página do google contém a tag <body>
+● Realize o teste anterior em menos de 100 ms.
